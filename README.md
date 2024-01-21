@@ -17,10 +17,8 @@ https://user-images.githubusercontent.com/17473589/222925358-70d5872b-05aa-4fa7-
 The app should open up automatically in your default browser.
 
 ### References
-
-1. https://blog.devgenius.io/creating-meeting-minutes-using-openai-gpt-3-api-f79e5fc15eb1
-2. https://openai.com/
-3. https://github.com/streamlit/streamlit
+1. https://openai.com/
+2. https://github.com/streamlit/streamlit
 
 
 
